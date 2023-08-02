@@ -1,4 +1,4 @@
-# LXGW NeoZhiSong Fusion
+# LXGW Neo ZhiSong Fusion </br>霞鹜新致宋 融合
 「霞鹜新致宋」与「IPAmj 明朝」「一点明体」「谜乃明朝」的合并字体。
 
 ## 介绍
