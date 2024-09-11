@@ -24,4 +24,4 @@
 - **「霞鹜新晰黑 融合」：** 打底字体 [Droid Sans Fallback](https://www.maoken.com/freefonts/2428.html) 采用 Apache License Version 2.0 授权方式，而主要字体[「霞鹜新晰黑」](https://github.com/lxgw/LxgwNeoXiHei)采用 [IPA Font License v1.0](IPA_Font_License_Agreement_v1.0.txt) 授权方式。
 - **「霞鹜新致宋 融合」：** 最低优先级打底字体[「谜乃明朝 / Nazono Mincho」](https://github.com/ge9/NazonoMincho) 采用 GlyphWiki 授权方式，而主要字体[「霞鹜新致宋」](https://github.com/lxgw/LxgwNeoZhiSong) 及其他打底字体[「IPAmj 明朝」](https://moji.or.jp/mojikiban/font/)[「一点明体」](https://github.com/ichitenfont/I.Ming)采用 [IPA Font License v1.0](IPA_Font_License_Agreement_v1.0.txt) 授权方式。
 
-根据授权的兼容性与传染性，以上两款字体均采用 [IPA Font License v1.0](IPA_Font_License_Agreement_v1.0.txt) 授权。本项目字体所并入非 IPA 许可字体的授权许可及其 URL [点击此处](licenses_of_other_merged_fonts.txt)查看。
+根据授权的兼容性与传染性，以上两款字体均采用 [IPA Font License v1.0](IPA_Font_License_Agreement_v1.0.txt) 授权。本项目字体所并入非 IPA 许可字体的授权许可及其 URL [点击此处](licenses_of_other_incorporated_fonts.txt)查看。
