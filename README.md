@@ -1,3 +1,5 @@
+> 本项目的两个字体分别更名为「霞鹜新晰黑＋ / LXGW Neo XiHei Plus」「霞鹜新致宋＋ / LXGW Neo ZhiSong Plus」，并已于[「霞鹜新晰黑」](https://github.com/lxgw/LxgwNeoXiHei)[「霞鹜新致宋」](https://github.com/lxgw/LxgwNeoZhiSong)各自的 repo 发行，本 repo 归档。
+
 # 霞鹜新晰黑＆霞鹜新致宋 融合版</br> LXGW Neo XiHei Fusion & LXGW Neo ZhiSong Fusion
 「霞鹜新晰黑」「霞鹜新致宋」补全版本，满足 GB 18030-2022 实现级别 2 收字范围要求。
 ## 字体简介
